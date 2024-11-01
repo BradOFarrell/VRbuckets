@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6dbb96b9d112024d000e929e39e7c39
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 21064
+  packageName: Standard Assets for Unity 4.6
+  packageVersion: 1.0.3
+  assetPath: Assets/Standard Assets/Effects/LightFlares/Materials/Flare50mm.mat
+  uploadId: 149151
